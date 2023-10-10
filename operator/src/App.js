@@ -4,7 +4,7 @@ import './App.css';
 let userdata ={
   name : "Hinaya",
   imgurl:"https://images.unsplash.com/photo-1612506001235-f0d0892aa11b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
-  age: '3'
+  age: "3"
 }
 
 function Truevalue(){
